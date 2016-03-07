@@ -3,6 +3,8 @@
 # Download this file and unzip it in the working directory. This should 
 # create a file called "household_power_consumption.txt"
 
+dataFile <- "household_power_consumption.txt"
+
 # The file contains over 2 million observations of 9 variables. Reading the full
 # dataset into R will use no more than 150MB of memory. Most modern computers
 # will have no problem with this, so no selective import is used.
